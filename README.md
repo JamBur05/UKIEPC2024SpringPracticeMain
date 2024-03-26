@@ -1,6 +1,6 @@
 # UKIEPC 2024: Spring Practice Main
 
-Worked in team with [Matthew Ranson](https://github.com/MattR2718).
+Worked in a team with [Matthew Ranson](https://github.com/MattR2718).
 
 ## Problems
 
